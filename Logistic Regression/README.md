@@ -85,8 +85,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Perform feature scaling to evaluate its impact on model performance.
 
 ## Author
-[Your Name]
+[Siddhant Jain]
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
 
